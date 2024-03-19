@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Google Time Filter Always Visible
+// @name         Google - Filter Always
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  Add a time filter menu to Google search results with an 'hour' option
+// @description  Add an always visible time filter to Google search result pages.
 // @author       You
 // @match        *://*google.*/*search?*
 // @grant        none
